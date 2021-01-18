@@ -1,1 +1,2 @@
 # Youtube Trending Statistics
+ YouTube is perhaps the biggest online Video Platform there is. A Trending video can generate a huge revenue by itself or increase brand recognition and acceptance for any product. The main factors of a video to be categorised as “Trending” is the amount of interaction it gets in terms of views , likes and comments with the viewers. My objective was to cluster the videos by the factor which most contributed to become a Trending Video.
